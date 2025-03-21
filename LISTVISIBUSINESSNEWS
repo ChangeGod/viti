@@ -26,6 +26,10 @@ EXTINF:-1 tvg-id="Charles Schwab" group-title="Business News" tvg-logo="hthttps:
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 
+EXTINF:-1 tvg-id="Fox Business" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20180608/wc/kisspng-fox-business-network-united-states-fox-news-public-metafox-5b1a0d7a5880d7.4390372415284340423625.jpg", Fox Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
+http://fl2.moveonjoy.com/FOX_Business_Network/index.m3u8
+
 EXTINF:-1 tvg-id="Yahoo Finance" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20180526/grq/kisspng-yahoo-finance-money-news-5b08ec918e83d8.0286707815273115055838.jpg", Yahoo Finance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
