@@ -1,15 +1,15 @@
-EXTINF:-1 tvg-id="ABC" group-title="News" tvg-logo="https://banner2.cleanpng.com/20180714/awo/kisspng-abc-news-national-women-s-hockey-league-new-york-c-kent-state-shootings-remembrance-5b4abc2e9561c0.8192110315316244946119.jpg", ABC
+#EXTINF:-1 tvg-id="ABC" group-title="News" tvg-logo="https://banner2.cleanpng.com/20180714/awo/kisspng-abc-news-national-women-s-hockey-league-new-york-c-kent-state-shootings-remembrance-5b4abc2e9561c0.8192110315316244946119.jpg", ABC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-EXTINF:-1 tvg-id="BBC" group-title="News" tvg-logo="https://banner2.cleanpng.com/20180514/xwq/kisspng-bbc-news-online-bbc-cymru-wales-5af94c6a416c96.345191791526287466268.jpg", BBC
+#EXTINF:-1 tvg-id="BBC" group-title="News" tvg-logo="https://banner2.cleanpng.com/20180514/xwq/kisspng-bbc-news-online-bbc-cymru-wales-5af94c6a416c96.345191791526287466268.jpg", BBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 http://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
-EXTINF:-1 tvg-id="CNN" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/3/1/cnn-logo-png_seeklogo-32699.png", CNN
+#EXTINF:-1 tvg-id="CNN" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/3/1/cnn-logo-png_seeklogo-32699.png", CNN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-EXTINF:-1 tvg-id="FOX NOW" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_NewsNow.svg/revision/latest/scale-to-width-down/1000?cb=20240303211719", FOX NOW
+#EXTINF:-1 tvg-id="FOX NOW" group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Fox_NewsNow.svg/revision/latest/scale-to-width-down/1000?cb=20240303211719", FOX NOW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6377ea0e13bb6b1757e14695.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Rxe_VxRBz5GsyA--GP5x
-EXTINF:-1 tvg-id="Reuter TV" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/28/1/reuters-logo-png_seeklogo-286647.png", Reuter TV
+#EXTINF:-1 tvg-id="Reuter TV" group-title="News" tvg-logo="https://images.seeklogo.com/logo-png/28/1/reuters-logo-png_seeklogo-286647.png", Reuter TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea71d65252710041e0ccbc.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=Rxe_VxRBz5GsyA--GP5x
