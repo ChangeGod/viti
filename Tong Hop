@@ -2353,13 +2353,13 @@ http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?khichtv
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
-#EXTINF:-1, tvg-id="K+.CINE.vn", K+ CINE
+#EXTINF:-1, tvg-id="K+.CINE.vn" group-title="K+", K+ CINE
 https://truyenhinh.click/kcinehd
-#EXTINF:-1, tvg-id="K+.ACTION.vn", K+ ACTION
+#EXTINF:-1, tvg-id="K+.ACTION.vn" group-title="K+", K+ ACTION
 https://truyenhinh.click/kactionhd
-#EXTINF:-1, tvg-id="K+.SPORT1.vn", K+ SPORT1
+#EXTINF:-1, tvg-id="K+.SPORT1.vn" group-title="K+", K+ SPORT1
 https://truyenhinh.click/ksport1hd
-#EXTINF:-1, tvg-id="K+.SPORT2.vn", K+ SPORT2
+#EXTINF:-1, tvg-id="K+.SPORT2.vn" group-title="K+", K+ SPORT2
 https://truyenhinh.click/ksport2hd
 #EXTINF:-1, tvg-id="K+.KIDS.vn", K+ KIDS
 https://truyenhinh.click/kkidshd
