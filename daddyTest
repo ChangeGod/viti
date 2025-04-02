@@ -1,4 +1,5 @@
-#EXTINF:-1 group-title="HOA KỲ" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNBC
+#EXTINF:-1 group-title="HOA KỲ" tvg-id="CNBC.USA.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-name="CNBC FHD",CNB
 #EXTVLCOPT:http-referrer=https://webxzplay.cfd
+#EXTVLCOPT:http-origin=https://webxzplay.cfd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (like Gecko) Chrome/134.0.0.0 Safari/537.36
 https://zekonew.newkso.ru/zeko/premium314/mono.m3u8
