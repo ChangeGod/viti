@@ -16,7 +16,6 @@ https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20181212/vrh/kisspng-cnbc-television-channel-logo-msnbc-nd-in-the-news-notre-dame-news-university-of-notre-5c11d646105947.799509361544672838067.jpg",CNBC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 http://fl3.moveonjoy.com/CNBC/index.m3u8
-###http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Charles Schwab" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Charles_Schwab_Corporation_logo.svg",Charles Schwab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
