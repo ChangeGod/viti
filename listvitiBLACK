@@ -4,3 +4,23 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="FTVMidnight" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Fashion_TV_logo.svg", FTVMidnight
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b3500000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-id="Miami TV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png?20170815003849", Miami TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
+#EXTINF:-1 tvg-id="Miami TV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png?20170815003849", Miami TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
+https://59ec5453559f0.streamlock.net/miamitvfashion/smil:34256/playlist.m3u8
+#EXTINF:-1 tvg-id="Miami TV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png?20170815003849", Miami TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
+https://cd3ab99e1e2247709dfc4c19848e7915.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-fashion/5cc58e0b-3cd6-410c-8d1b-0f4e94a772a3/0.m3u8
+#EXTINF:-1 tvg-id="Miami TV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/10/Miami_tv.png?20170815003849", Miami TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
+https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rouge TV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png?20170824145916", Rouge TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
+https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
+#EXTINF:-1 tvg-id="AfeecaTV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/AfreecaTV.png", AfeecaTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
+https://glb.bozztv.com/glb/ushba43/index.m3u8
+#EXTINF:-1 tvg-id="FII" group-title="Black" tvg-logo="https://yt3.googleusercontent.com/wCWuO06w2I6tHC68FSufG1EAHwVwk48jp_b1rFHAKCCkP8Q_H76k3Ncnb4MPaCmh2DOEpCu0xw=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj", FII
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
+https://fl1004.bozztv.com/ushba-m5/tracks-v1a1/mono.m3u8
