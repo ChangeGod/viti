@@ -1,30 +1,28 @@
+#EXTM3U url-tvg="https://github.com/Drewski2423/DrewLive/raw/refs/heads/main/DrewLive.xml.gz"
+
+#EXTGRP:Business & News
 #EXTINF:-1 tvg-id="Bloomberg.TV.USA.us" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg TV USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="USB" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://www.bloomberg.com/media-manifest/streams/us.m3u8
-#EXTINF:-1 tvg-id="AsiaB" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
-https://www.bloomberg.com/media-manifest/streams/asia.m3u8
-#EXTINF:-1 tvg-id="EUB" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg Euro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
-https://www.bloomberg.com/media-manifest/streams/eu.m3u8
-#EXTINF:-1 tvg-id="AustraliaB" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/New_Bloomberg_Logo.svg/1024px-New_Bloomberg_Logo.svg.png",Bloomberg Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
-https://www.bloomberg.com/media-manifest/streams/aus.m3u8
 #EXTINF:-1 tvg-id="CNBC.USA.us" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20181212/vrh/kisspng-cnbc-television-channel-logo-msnbc-nd-in-the-news-notre-dame-news-university-of-notre-5c11d646105947.799509361544672838067.jpg",CNBC USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 http://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 tvg-id="Charles Schwab" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Charles_Schwab_Corporation_logo.svg",Charles Schwab
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Fox Business" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20180608/wc/kisspng-fox-business-network-united-states-fox-news-public-metafox-5b1a0d7a5880d7.4390372415284340423625.jpg",Fox Business
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
-http://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="Charles Schwab" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
-https://fl5.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="Yahoo Finance" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20180526/grq/kisspng-yahoo-finance-money-news-5b08ec918e83d8.0286707815273115055838.jpg",Yahoo Finance
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Fox Business" group-title="Business News" tvg-logo="https://banner2.cleanpng.com/20180608/wc/kisspng-fox-business-network-united-states-fox-news-public-metafox-5b1a0d7a5880d7.4390372415284340423625.jpg",Fox Business
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
+https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
+#EXTINF:-1 tvg-id="Fox News" group-title="Business News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",Fox News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
+https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/index.m3u8
+
+#EXTINF:-1 tvg-id="Quiet" group-title="Business News" tvg-logo="https://media.istockphoto.com/id/1714613406/vector/silent-speaker-icon-vector-volume-symbol-design-illustration.jpg?s=1024x1024&w=is&k=20&c=PHjTieEVwV7fS90RL4-ahSi02gepaquikTb_p2kjG38=",Mute
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0 
+
