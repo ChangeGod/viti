@@ -20,9 +20,9 @@ https://rpn3.bozztv.com/dvrfl07/ushba-t8/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
 https://59ec5453559f0.streamlock.net/miamitvmodels/_definst_/smil:529634/chunklist_w959983628_b5096000.m3u8
 
-#EXTINF:-1 tvg-id="Rouge TV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Rouge_Tv-_cmjn.png?20170824145916", Rouge TV
+#EXTINF:-1 tvg-id="Rouge TV" group-title="Black" tvg-logo="https://as1.ftcdn.net/jpg/01/75/84/70/1000_F_175847061_4QhZaWM0mo6BpvAtDnQstYxiOxRM8H92.jpg", Bxx tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
-https://edge17.vedge.infomaniak.com/livecast/rougetv/chunklist_w968669534.m3u8
+https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="AfeecaTV" group-title="Black" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4e/AfreecaTV.png", AfeecaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 cvmedia/1.0.0 Dalvik/2.1.0
 https://glb.bozztv.com/glb/ushba43/index.m3u8
